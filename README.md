@@ -12,5 +12,11 @@ Edit `RAW` dan `teach()` di `data.js`.
 ## Waktu shalat
 Kota Depok. Aplikasi mengambil jadwal bulanan Kemenag (via api.myquran.com) saat online, lalu menyimpannya. `prayer.js` memuat cadangan lokal Oktober 2026.
 
+## Sinkronisasi
+Settings > Sinkronisasi: isi GitHub token (classic, scope `gist`) dan passphrase. Data dienkripsi sebelum dikirim ke secret gist milik Anda.
+
+## Export
+Settings > Export CSV (pemisah titik koma, UTF-8). Backup lengkap tetap tersedia sebagai .json.
+
 ## Backup
 Settings > Export backup. Data tersimpan di browser perangkat.
