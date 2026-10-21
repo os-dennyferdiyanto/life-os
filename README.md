@@ -20,3 +20,6 @@ Settings > Export CSV (pemisah titik koma, UTF-8). Backup lengkap tetap tersedia
 
 ## Backup
 Settings > Export backup. Data tersimpan di browser perangkat.
+
+## Body Check
+More > Body Check: jam tidur/bangun, makanan (nutrisi perkiraan), langkah, kalori terbakar, detak jantung istirahat, Body Battery, air, laporan 7 hari. Data Garmin diinput manual.
